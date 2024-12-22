@@ -17,7 +17,7 @@ Low-Rank Adaptation (LoRA) and quantization for efficient fine-tuning of Llama 2
 ## Installation
 
  ```bash
-git clone https://github.com/your-repo/emotion-recognition-in-artworks.git
+git clone https://github.com/KeerheitBO/202412-6-Emotion-Recognition-in-Artworks.git
 cd emotion-recognition-in-artworks
 ```
 
