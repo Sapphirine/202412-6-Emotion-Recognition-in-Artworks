@@ -41,8 +41,7 @@ cd emotion-recognition-in-artworks
 │   ├── Fine_tune.ipynb
 ├── emotion_chatbot/
 │   ├── emotion_chatbot_gradio.ipynb
+│   ├── emotion_model.keras 
 ├── README.md
 └── requirements.txt
-
-
 ```
