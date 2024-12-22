@@ -3,11 +3,19 @@ The project develops a comprehensive system that combines emotion recognition in
 
 Authors: Keer Lu(kl3658), Purui Niu(pn2433)
 ---
+## Features
+* Emotion Classification: Classifies images into positive, negative, or mixed emotions using a CNN-based architecture.
+* Chatbot Integration: Fine-tuned Llama 2-Chat model provides conversational responses based on image emotion analysis.
+* Advanced Techniques:
+Transfer learning and data augmentation for CNNs.
+Low-Rank Adaptation (LoRA) and quantization for efficient fine-tuning of Llama 2-Chat.
+* Visualization Tools: Includes training/validation accuracy and loss plots, confusion matrices, and workflow diagrams.
 
 
 
 
 ## Installation
+
  ```bash
 git clone https://github.com/your-repo/emotion-recognition-in-artworks.git
 cd emotion-recognition-in-artworks
