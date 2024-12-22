@@ -8,8 +8,10 @@ Authors: Keer Lu(kl3658), Purui Niu(pn2433)
 
 
 ## Installation
-
-
+ ```bash
+git clone https://github.com/your-repo/emotion-recognition-in-artworks.git
+cd emotion-recognition-in-artworks
+```
 
  Install dependencies:
  ```bash
@@ -32,5 +34,7 @@ Authors: Keer Lu(kl3658), Purui Niu(pn2433)
 ├── emotion_chatbot/
 │   ├── emotion_chatbot_gradio.ipynb
 ├── README.md
+└── requirements.txt
+
 
 ```
