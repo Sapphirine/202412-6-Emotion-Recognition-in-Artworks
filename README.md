@@ -4,6 +4,19 @@ The project develops a comprehensive system that combines emotion recognition in
 Authors: Keer Lu(kl3658), Purui Niu(pn2433)
 ---
 
-## Project Structure 
+## Organization of Directory
 
+```
+ FinalProject-eecs6893-202412-6/
+├── CNN/
+│   ├── Binary_Model.ipynb
+│   ├── Final_Project_DataProcessing_11.ipynb
+│   ├── Multi-Classes_Models.ipynb
+│   ├── Tri_Classes_Models.ipynb
+├── LLM/
+│   ├── Fine_tune.ipynb
+├── emotion_chatbot/
+│   ├── emotion_chatbot_gradio.ipynb
+├── README.md
 
+```
