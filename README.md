@@ -4,6 +4,20 @@ The project develops a comprehensive system that combines emotion recognition in
 Authors: Keer Lu(kl3658), Purui Niu(pn2433)
 ---
 
+
+
+
+## Installation
+
+
+
+ Install dependencies:
+ ```bash
+   pip install -r requirements.txt
+```
+
+
+
 ## Organization of Directory
 
 ```
